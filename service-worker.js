@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/HandyDiet/precache-manifest.68de8729985c10cffda9ab8d57c6296b.js"
+  "/HandyDiet/precache-manifest.116aa51e70ecc9dd4bc4e4f8c9053be0.js"
 );
 
 self.addEventListener('message', (event) => {
