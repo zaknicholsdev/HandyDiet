@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "00c99610a6c088526991306bde882474",
+    "revision": "7a9859a436931633d9d566347e50b33f",
     "url": "/HandyDiet/index.html"
   },
   {
-    "revision": "5993b91d530cf24ee3b9",
+    "revision": "947d3f89253836ebb049",
     "url": "/HandyDiet/static/css/main.f0501915.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/HandyDiet/static/js/2.40b39512.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5993b91d530cf24ee3b9",
-    "url": "/HandyDiet/static/js/main.6f9ee896.chunk.js"
+    "revision": "947d3f89253836ebb049",
+    "url": "/HandyDiet/static/js/main.65195cf7.chunk.js"
   },
   {
     "revision": "3eab3e7a750a91da74a2",
