@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/HandyDiet/static/css/main.f0501915.chunk.css",
-    "main.js": "/HandyDiet/static/js/main.dd8ca40a.chunk.js",
-    "main.js.map": "/HandyDiet/static/js/main.dd8ca40a.chunk.js.map",
+    "main.js": "/HandyDiet/static/js/main.1277f020.chunk.js",
+    "main.js.map": "/HandyDiet/static/js/main.1277f020.chunk.js.map",
     "runtime-main.js": "/HandyDiet/static/js/runtime-main.dbb80488.js",
     "runtime-main.js.map": "/HandyDiet/static/js/runtime-main.dbb80488.js.map",
-    "static/js/2.40b39512.chunk.js": "/HandyDiet/static/js/2.40b39512.chunk.js",
-    "static/js/2.40b39512.chunk.js.map": "/HandyDiet/static/js/2.40b39512.chunk.js.map",
+    "static/js/2.87fdbcaf.chunk.js": "/HandyDiet/static/js/2.87fdbcaf.chunk.js",
+    "static/js/2.87fdbcaf.chunk.js.map": "/HandyDiet/static/js/2.87fdbcaf.chunk.js.map",
     "index.html": "/HandyDiet/index.html",
-    "precache-manifest.116aa51e70ecc9dd4bc4e4f8c9053be0.js": "/HandyDiet/precache-manifest.116aa51e70ecc9dd4bc4e4f8c9053be0.js",
+    "precache-manifest.795f9f59b15c893592b87ce09724ffb1.js": "/HandyDiet/precache-manifest.795f9f59b15c893592b87ce09724ffb1.js",
     "service-worker.js": "/HandyDiet/service-worker.js",
     "static/css/main.f0501915.chunk.css.map": "/HandyDiet/static/css/main.f0501915.chunk.css.map",
-    "static/js/2.40b39512.chunk.js.LICENSE.txt": "/HandyDiet/static/js/2.40b39512.chunk.js.LICENSE.txt"
+    "static/js/2.87fdbcaf.chunk.js.LICENSE.txt": "/HandyDiet/static/js/2.87fdbcaf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.dbb80488.js",
-    "static/js/2.40b39512.chunk.js",
+    "static/js/2.87fdbcaf.chunk.js",
     "static/css/main.f0501915.chunk.css",
-    "static/js/main.dd8ca40a.chunk.js"
+    "static/js/main.1277f020.chunk.js"
   ]
 }
